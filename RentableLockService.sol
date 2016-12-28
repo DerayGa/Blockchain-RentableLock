@@ -1,5 +1,4 @@
 pragma solidity ^0.4.0;
-pragma solidity ^0.4.0;
 // 105971007 薛德瑞
 contract RentableLockService {
     address public renter;
